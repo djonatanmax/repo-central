@@ -6,8 +6,7 @@ public class BibliotecaApp {
 		// TODO Auto-generated method stub
 		
 		Livro l = new Livro();
-		Usuario u = new Usuario();
-		Emprestimo e = new Emprestimo();
+
 	}
 
 }
